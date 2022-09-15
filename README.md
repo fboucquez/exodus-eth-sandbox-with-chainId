@@ -1,2 +1,5 @@
-# exodus-eth-sandbox-with-chainId
-Created with CodeSandbox
+# exodus-sandbox
+
+Created with CodeSandbox.
+
+https://iqpw7f.csb.app/
